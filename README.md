@@ -12,5 +12,14 @@
 * Bootrstrap (http://getbootstrap.com/)
 
 
+### Resumo
+Serviço de e-commerce com venda de pacotes, área para login de cliente e acesso restrito para o conteúdo de acordo com o perfil do cliente
+
+O conteúdo poderá ser acessado das seguintes formas:
+Basic - acesso por uma semana
+Corporate - acesso ilimitado com download liberado.
+
+
+
 * * *
 *may the force be with you*
