@@ -1,7 +1,6 @@
 # Top Secret Project Labs
 ## Objetivo: dominar toda a galáxia
 
-### Resumo
 Serviço de e-commerce com venda de pacotes, área para login de cliente e acesso restrito para o conteúdo de acordo com o perfil do cliente
 
 O conteúdo poderá ser acessado das seguintes formas:
