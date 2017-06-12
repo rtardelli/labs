@@ -15,6 +15,7 @@ O conteúdo poderá ser acessado das seguintes formas:
 
 ### Stack de tecnologias
 ![Node.JS](https://www.shareicon.net/data/128x128/2015/10/06/112725_development_512x512.png)
+![npm](https://www.myget.org/Content/images/packageDefaultIcon_npm.png)
 ![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Logo_128.png)
 ![CSS3](https://www.shareicon.net/data/128x128/2015/09/01/94046_css3_512x512.png)
 ![MongoDB](https://perlmaven.com/img/mongodb-logo.png)
