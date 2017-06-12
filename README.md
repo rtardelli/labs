@@ -16,10 +16,7 @@ O conteúdo poderá ser acessado das seguintes formas:
 ### Stack de tecnologias
 ![Node.JS](https://www.shareicon.net/data/128x128/2015/10/06/112725_development_512x512.png)
 ![npm](https://www.myget.org/Content/images/packageDefaultIcon_npm.png)
-![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Logo_128.png)
-![CSS3](https://www.shareicon.net/data/128x128/2015/09/01/94046_css3_512x512.png)
 ![MongoDB](https://perlmaven.com/img/mongodb-logo.png)
-![JavaScript](https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png)
 ![AngularJS](https://s-media-cache-ak0.pinimg.com/236x/3f/22/ef/3f22efbd20ba337ffd2a95c52a1899e5.jpg)
 
 [Material Angular](https://material.angular.io/)
