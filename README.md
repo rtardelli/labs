@@ -8,9 +8,10 @@ O conteúdo poderá ser acessado das seguintes formas:
 - Corporate - acesso ilimitado. Plano mensal ou anual. Cartão de crédito ou boleto
 
 ### Como executar
-  npm install
+
+  `npm install`
   
-  npm start
+  `npm start`
 
 
 ### Stack de tecnologias
