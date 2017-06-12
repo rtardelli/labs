@@ -1,9 +1,10 @@
 {
-  "name": "angular-quickstart",
+  "name": "labs-project",
   "version": "1.0.0",
   "scripts": {
     "start": "npm run lite",
-    "lite": "lite-server"
+    "lite": "lite-server",
+    "test": "ng test"
   },
   "license": "MIT",
   "dependencies": {
