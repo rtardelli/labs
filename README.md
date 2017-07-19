@@ -7,11 +7,20 @@ O conteúdo poderá ser acessado das seguintes formas:
 - Free - acesso por uma semana ilimitado
 - Corporate - acesso ilimitado. Plano mensal ou anual. Cartão de crédito ou boleto
 
-### Como executar
+### Como executar o servidor
 
   `npm install`
 
   `npm start`
+
+### Como executar o cliente
+
+  `cd client`
+
+  `ng serve`
+
+  Acessar o endereço `http://localhost:4200`
+
 
 ### Stack de tecnologias
 ![Node.JS](https://www.shareicon.net/data/128x128/2015/10/06/112725_development_512x512.png)

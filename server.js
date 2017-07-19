@@ -6,6 +6,7 @@ const app = express();
 
 // Middlewares
 app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true })); // support encoded bodies
 
 // End - Middlewares
 
