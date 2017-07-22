@@ -1,0 +1,29 @@
+.footer {
+    background-color: #89bdd3;
+    color: white;
+}
+
+.footer section {
+    padding-top: 15px;
+}
+
+.footer section ul a:any-link {
+    font-size: 14px;
+    color: white;
+}
+
+.footer section p {
+    font-size: 14px;
+}
+
+.phone {
+    color: black;
+}
+
+.copyright {
+    background-color: #9ad3de;
+    text-align: center;
+    color: white;
+    vertical-align: center;
+    height: 30px;
+}
